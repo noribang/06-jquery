@@ -1,0 +1,7 @@
+#story {
+	display: none
+}
+
+.person1, .person2, .animal, .exclamation, .verb, .noun {
+	color: blue;
+}
